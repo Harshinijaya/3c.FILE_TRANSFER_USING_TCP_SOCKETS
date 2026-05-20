@@ -80,7 +80,7 @@ print("Successfully received the file")
 s.close()
 print("Connection closed")
 ```
-## OUPUT##
+## OUTPUT##
 <img width="1918" height="1078" alt="Screenshot 2026-05-20 112125" src="https://github.com/user-attachments/assets/12d03e60-afa6-482e-8c22-b5cc4409d208" />
 <img width="1918" height="1078" alt="Screenshot 2026-05-20 112137" src="https://github.com/user-attachments/assets/749920f1-3df5-4c9e-9067-cc94b3495eed" />
 
