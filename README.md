@@ -78,9 +78,7 @@ with open("received_file.txt", "wb") as f:
         f.write(data)
 
 print("Successfully received the file")
-
 s.close()
-
 print("Connection closed")
 ```
 ## OUPUT##
